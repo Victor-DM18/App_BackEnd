@@ -18,4 +18,4 @@ export default {
         origin: process.env.CLIENT_ORIGIN,
         credentials: true,
     },
-}
+};
