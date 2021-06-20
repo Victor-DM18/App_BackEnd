@@ -1,3 +1,3 @@
-import config from "./src/config"
+import config from "./src/config";
 
-export default config.knex
+export default config.knex;
